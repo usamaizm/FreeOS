@@ -21,3 +21,8 @@ The FreeOS project code in this repository is licensed under the MIT License. Th
 
 - [ARCHITECTURE.md](ARCHITECTURE.md) — initial system design and component policy.
 - [ROADMAP.md](ROADMAP.md) — staged prototype and release milestones.
+
+
+## Ecosystem integration
+
+This project is part of a set of independent, interoperable open projects. See the [ecosystem integration contract](https://github.com/usamaizm/AIDB/blob/main/docs/ECOSYSTEM_INTEGRATION.md) for its role, interoperability boundaries, and integration principles.
