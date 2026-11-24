@@ -15,3 +15,9 @@ FreeOS is a no-cost, multi-architecture operating-system project intended to be 
 ## Licensing
 
 The FreeOS project code in this repository is licensed under the MIT License. Third-party components remain subject to their respective licenses and vendor terms.
+
+
+## Engineering documents
+
+- [ARCHITECTURE.md](ARCHITECTURE.md) — initial system design and component policy.
+- [ROADMAP.md](ROADMAP.md) — staged prototype and release milestones.
